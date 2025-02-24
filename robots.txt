@@ -1,0 +1,4 @@
+Sitemap: https://brooss123.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: brooss123.github.io
